@@ -26,8 +26,7 @@ public class Config {
           }
         }
       }
-      
-      // Valores padrão caso não haja configuração
+
       if (healItems.isEmpty()) {
         healItems.put("potion_health", 20.0);
       }
