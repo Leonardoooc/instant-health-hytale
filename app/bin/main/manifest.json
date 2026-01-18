@@ -1,0 +1,18 @@
+{
+  "Group": "org.lenerki",
+  "Name": "InstantHealth",
+  "Version": "1.0.1",
+  "Description": "Instant health when using item for pvp",
+  "Authors": [
+    {
+      "Name": "Lenerki"
+    }
+  ],
+  "Main": "org.lenerki.InstantHealth",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

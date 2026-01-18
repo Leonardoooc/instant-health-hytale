@@ -1,0 +1,28 @@
+# Soup/Pot PvP plugin configuration, on right click with item in hand, it will regenerates health and consume the item instantly.
+
+# Configure multiple healing items with their respective heal amounts
+# Each [[healItem]] section defines an item that can be used to heal instantly
+
+# Portugues
+# Plugin para PvP de sopa ou potion, quando clicar com o botão direito com o item, irá regenerar vida e consumir o item instantâneamente.
+# Cada [[healItem]] define um item que pode ser usado para recuperar vida instantâneamente, pode colocar quantos quiser
+
+[[healItem]]
+itemId = "potion_health_large"
+healAmount = 30.0
+
+[[healItem]]
+itemId = "potion_health_greater"
+healAmount = 25.0
+
+[[healItem]]
+itemId = "potion_health"
+healAmount = 20.0
+
+[[healItem]]
+itemId = "potion_health_lesser"
+healAmount = 15.0
+
+[[healItem]]
+itemId = "potion_health_small"
+healAmount = 10.0
